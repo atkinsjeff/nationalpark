@@ -1,0 +1,15 @@
+Package: nationalpark
+Type: Package
+Title: A selection of color palettes from photographs of US National Parks
+Version: 0.1.0
+Authors@R: c(person("Jeff", "Atkins", email = "jwatkins6@vcu.edu",
+                  role = c("aut", "cre")),
+          person("Aaron", "Woleslagle", role = "ctb"),
+          person("Elizabeth", "Agee", role = "ctb")
+Maintainer: Jeff Atkins <jwatkins6@vcu.edu>
+URL: https://github.com/atkinsjeff/nationalpark
+Description: This package includes color palettes chosen from photographs
+    taken in US National Parks.
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
