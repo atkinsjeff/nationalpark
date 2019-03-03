@@ -6,7 +6,9 @@
 np_palettes <- list(
   badlands = c("#3D6F07", "#FBF9FF", "#7D2010", "#DE5A31", "#535261"),
   deathvalley = c("#932ABE", "#2788F9", "#FFE9E6", "#F4B80D", "#665543"),
-  smokies1 = c("#932ABE", "#2788F9", "#FFE9E6", "#F4B80D", "#665543")
+  smokies1 = c("#932ABE", "#2788F9", "#FFE9E6", "#F4B80D", "#665543"),
+  tallgrass = c("#82A8E5", "#3C481D", "#757553", "#341A16", "#EDD8B9"),
+  rockymtn = c("#EBECF5", "#6699F2", "#CBA230", "#949482", "#22251E")
 )
 
 #' A National Parks of the United States palette generator

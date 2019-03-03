@@ -5,7 +5,7 @@ Version: 0.1.0
 Authors@R: c(person("Jeff", "Atkins", email = "jwatkins6@vcu.edu",
                   role = c("aut", "cre")),
           person("Aaron", "Woleslagle", role = "ctb"),
-          person("Elizabeth", "Agee", role = "ctb")
+          person("Elizabeth", "Agee", role = "ctb"))
 Maintainer: Jeff Atkins <jwatkins6@vcu.edu>
 URL: https://github.com/atkinsjeff/nationalpark
 Description: This package includes color palettes chosen from photographs
