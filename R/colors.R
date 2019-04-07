@@ -15,18 +15,14 @@ np_palettes <- list(
   shenandoah = c("#253222", "#DFE4F3", "#6D6C71", "#080A08", "#37291C"),
   shenandoah2 = c("#525972", "#D6E7FF", "#72532F", "#6E6F35", "#F8E5AA"),
   kingscanyon = c("#09090B", "#FDFEFD", "#A4C3E1", "#5A4F29", "#413632"),
-  kingscanyon = c("#7E7D4F", "#2B2B1D", "#A77957", "#EDEDED", "#080503"),
-  deathvalley = c("#932ABE", "#2788F9", "#FFE9E0", "#F4B80D", "#665543"),
+  kingscanyon2 = c("#7E7D4F", "#2B2B1D", "#A77957", "#EDEDED", "#080503"),
   smokies2 = c("#4C5961", "#000405", "#F2E702", "#2C4800", "#FBE1CA"),
   smokies3 = c("#004E5A", "#D8F7ED", "#F0C02D", "#BF6514", "#0B0F0D"),
   arches = c("#3B1105", "#FC7500", "#E0E4FC", "#5487C8", "#FFD707"),
   bryce = c("#DCDFE4", "#01261D", "#3C63A6", "#4F2716", "#F2B06A"),
-  bryce = c("#DCDFE4", "#01261D", "#3C63A6", "#4F2716", "#F2B06A"),
-  grandtetons2 = c("#3F1359", "#9C98BD", "#67381F", "#354920", "#F4D4CA"),
+  grandtetons = c("#3F1359", "#9C98BD", "#67381F", "#354920", "#F4D4CA"),
   conagree = c("#204608", "#403F0F", "#F4F3E1", "#11130E", "#A0F51C"),
-  zion = c("#244200", "#211C12", "#D5AA7D", "#663726", "#FAFCFE"),
   yellowstone2 = c("#244200", "#211C12", "#D5AA7D", "#663726", "#FAFCFE"),
-  zion = c("#244200", "#211C12", "#D5AA7D", "#663726", "#FAFCFE"),
   zion = c("#244200", "#211C12", "#D5AA7D", "#663726", "#FAFCFE")
 
 )
@@ -40,7 +36,13 @@ np_palettes <- list(
 #'   from photographs provided by J.W. Atkins, E. Agee, A. R. Woleslagle.
 #'   If omitted, uses all colours.
 #' @param name Name of desired palette. Choices are:
-#'   \code{badlands}, \code{deathvalley}, \code{smokies1}
+#'   \code{badlands}, \code{deathvalley}, \code{smokies},
+#'   \code{picturedrocks}, \code{lakesuperior}, \code{tallgrass},
+#'   \code{rockymtn}, \code{flatirons}, \code{shenandoah},
+#'   \code{shenandoah2}, \code{kingscanyon}, \code{kingscanyon2},
+#'   \code{smokies2}, \code{smokies3}, \code{arches},
+#'   \code{bryce}, \code{grandtetons}, \code{conagree},
+#'   \code{zion}, \code{yellowstone}
 #' @param type Either "continuous" or "discrete". Use continuous if you want
 #'   to automatically interpolate between colours.
 #'   @importFrom graphics rgb rect par image text

@@ -8,7 +8,13 @@ np_palette(name, n, type = c("discrete", "continuous"))
 }
 \arguments{
 \item{name}{Name of desired palette. Choices are:
-\code{badlands}, \code{deathvalley}, \code{smokies1}}
+\code{badlands}, \code{deathvalley}, \code{smokies},
+\code{picturedrocks}, \code{lakesuperior}, \code{tallgrass},
+\code{rockymtn}, \code{flatirons}, \code{shenandoah},
+\code{shenandoah2}, \code{kingscanyon}, \code{kingscanyon2},
+\code{smokies2}, \code{smokies3}, \code{arches},
+\code{bryce}, \code{grandtetons}, \code{conagree},
+\code{zion}, \code{yellowstone}}
 
 \item{n}{Number of colors desired. Unfortunately most palettes now only
 have 5 colors. These palettes are picked using color.adobe.com
