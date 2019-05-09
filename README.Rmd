@@ -67,7 +67,7 @@ Palettes
 ``` r
 np_palette("rockymtn")
 ```
-![Rocky Mountain National Park (image courtesy.](images/rockymtn.jpg)
+![Rocky Mountain National Park (image courtesy Liz Agee)](images/rockymtn.jpg)
 ![](figure/rockymtn.png)
 
 
