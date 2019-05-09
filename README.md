@@ -30,7 +30,7 @@ Usage
 -----
 
 ``` r
-library("nationalpark")
+library(nationalpark)
 
 # See all palettes
 names(nationalpark)

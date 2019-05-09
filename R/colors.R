@@ -4,31 +4,27 @@
 #'
 #' @export
 np_palettes <- list(
+  arches = c("#3B1105", "#FC7500", "#E0E4FC", "#5487C8", "#FFD707"),
   badlands = c("#3D6F07", "#FBF9FF", "#7D2010", "#DE5A31", "#535261"),
+  bryce = c("#DCDFE4", "#01261D", "#3C63A6", "#4F2716", "#F2B06A"),
+  conagree = c("#204608", "#403F0F", "#F4F3E1", "#11130E", "#A0F51C"),
   deathvalley = c("#932ABE", "#2788F9", "#FFE9E6", "#F4B80D", "#665543"),
-  smokies = c("#932ABE", "#2788F9", "#FFE9E6", "#F4B80D", "#665543"),
-  picturedrocks = c("#254C84", "#58A0CD", "#5C845F", "#FDF8F3", "#EAAC72"),
-  lakesuperior = c("#FCFEFD", "#DCABB0", "#6A5551", "#192E31", "#9BBFE6"),
-  tallgrass = c("#82A8E5", "#3C481D", "#757553", "#341A16", "#EDD8B9"),
-  rockymtn = c("#EBECF5", "#6699F2", "#CBA230", "#949482", "#22251E"),
+  everglades = c("#78A633", "#DADC57", "#735826", "#17130D", "#323D58"),
   flatirons = c("#261E29", "#383354", "#AFAEE7", "#2A301E", "#EEDB96"),
+  grandtetons = c("#3F1359", "#9C98BD", "#67381F", "#354920", "#F4D4CA"),
+  lakesuperior = c("#FCFEFD", "#DCABB0", "#6A5551", "#192E31", "#9BBFE6"),
+  kingscanyon = c("#09090B", "#FDFEFD", "#A4C3E1", "#5A4F29", "#413632"),
+  kingscanyon2 = c("#7E7D4F", "#2B2B1D", "#A77957", "#EDEDED", "#080503"),
+  picturedrocks = c("#254C84", "#58A0CD", "#5C845F", "#FDF8F3", "#EAAC72"),
+  rockymtn = c("#EBECF5", "#6699F2", "#CBA230", "#949482", "#22251E"),
   shenandoah = c("#253222", "#DFE4F3", "#6D6C71", "#080A08", "#37291C"),
   shenandoah2 = c("#525972", "#D6E7FF", "#72532F", "#6E6F35", "#F8E5AA"),
-  kingscanyon = c("#09090B", "#FDFEFD", "#A4C3E1", "#5A4F29", "#413632"),
-  kingscanyon = c("#7E7D4F", "#2B2B1D", "#A77957", "#EDEDED", "#080503"),
-  deathvalley = c("#932ABE", "#2788F9", "#FFE9E0", "#F4B80D", "#665543"),
+  smokies = c("#932ABE", "#2788F9", "#FFE9E6", "#F4B80D", "#665543"),
   smokies2 = c("#4C5961", "#000405", "#F2E702", "#2C4800", "#FBE1CA"),
   smokies3 = c("#004E5A", "#D8F7ED", "#F0C02D", "#BF6514", "#0B0F0D"),
-  arches = c("#3B1105", "#FC7500", "#E0E4FC", "#5487C8", "#FFD707"),
-  bryce = c("#DCDFE4", "#01261D", "#3C63A6", "#4F2716", "#F2B06A"),
-  bryce = c("#DCDFE4", "#01261D", "#3C63A6", "#4F2716", "#F2B06A"),
-  grandtetons2 = c("#3F1359", "#9C98BD", "#67381F", "#354920", "#F4D4CA"),
-  conagree = c("#204608", "#403F0F", "#F4F3E1", "#11130E", "#A0F51C"),
-  zion = c("#244200", "#211C12", "#D5AA7D", "#663726", "#FAFCFE"),
-  yellowstone2 = c("#244200", "#211C12", "#D5AA7D", "#663726", "#FAFCFE"),
-  zion = c("#244200", "#211C12", "#D5AA7D", "#663726", "#FAFCFE"),
+  tallgrass = c("#82A8E5", "#3C481D", "#757553", "#341A16", "#EDD8B9"),
+  yellowstone = c("#0154BE", "#FADB31", "#163003", "#C41F1E", "#4896F2"),
   zion = c("#244200", "#211C12", "#D5AA7D", "#663726", "#FAFCFE")
-
 )
 
 #' A National Parks of the United States palette generator

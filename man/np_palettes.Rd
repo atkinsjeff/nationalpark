@@ -4,7 +4,7 @@
 \name{np_palettes}
 \alias{np_palettes}
 \title{Complete list of palettes}
-\format{An object of class \code{list} of length 24.}
+\format{An object of class \code{list} of length 21.}
 \usage{
 np_palettes
 }
