@@ -2,7 +2,7 @@
 title: "National Park Palettes"
 author: "Jeff Atkins"
 date: "`r Sys.Date()`"
-output: rmarkdown::html_vignette
+output: rmarkdown::md_document
 vignette: >
   %\VignetteIndexEntry{Vignette Title}
   %\VignetteEngine{knitr::rmarkdown}
