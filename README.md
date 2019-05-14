@@ -42,7 +42,7 @@ Agee)](images/rockymtn.jpg) ![](figure/rockymtn.png)
 
     np_palette("tallgrass")
 
-![](figure/tallgrass.png)
+![](images/tallgrass.jpg) 
 
     library("ggplot2")
     ggplot(mtcars, aes(factor(cyl), fill=factor(vs))) +  geom_bar() +
