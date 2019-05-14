@@ -4,7 +4,11 @@
 \name{np_palettes}
 \alias{np_palettes}
 \title{Complete list of palettes}
+<<<<<<< HEAD
 \format{An object of class \code{list} of length 20.}
+=======
+\format{An object of class \code{list} of length 21.}
+>>>>>>> cbd663f299f571495f476fb9d3b0580556eb7e62
 \usage{
 np_palettes
 }
